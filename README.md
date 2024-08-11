@@ -72,3 +72,6 @@ The “inputs” parameter is a textbox that contains a label to let the user kn
 The Interface application can be shared with other users with a public URL.  
 
 The Gradio Interface works as expected and there are no errors after a user submits a text message.  
+
+**RESULT**  
+![](sms_app.png) 
